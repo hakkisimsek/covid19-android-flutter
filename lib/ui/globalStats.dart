@@ -70,7 +70,7 @@ class _OverviewState extends State<Overview> {
                             ),
                             Center(
                               child: Text(
-                                "COVID-19",
+                                "COVID 19",
                                 style: TextStyle(
                                   fontSize: 30,
                                   fontWeight: FontWeight.bold,
